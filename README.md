@@ -23,3 +23,4 @@ After this I was done with this set up process.
 - [vgchartz] (https://www.vgchartz.com/) -I recommend this website as it a very good place to find information on sales of video games, consoles, and it also keeps me up to date on gaming related news.
 - [tf2] (https://www.teamfortress.com/index.php) - I recommend this website as it shows the latests news when it comes to the game team fortress 2 it also has other content on it such as comics, movies, descriptions for the characters, and concept artwork 
 from the games development  
+
