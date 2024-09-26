@@ -14,6 +14,7 @@ git remote add origin https://github.com/Kitsune-21/kitsune.github.io.git
 git push -u origin main
 After this I was done with this set up process.
 #About me
+
 ##My interests 
 * I play alot of video games such as team fortress 2, minecraft, and my personal favorite game of all time WipEout HD
 * I also like to collect gaming consoles. My current collection includes all playstation consoles as well as a Nintendo Wii, Nintendo DS, a Switch, as well as a Sega Dreamcast.
